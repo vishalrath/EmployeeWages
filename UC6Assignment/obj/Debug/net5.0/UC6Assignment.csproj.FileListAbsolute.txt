@@ -1,0 +1,16 @@
+C:\Users\VISHAL\source\repos\UC6Assignment\UC6Assignment\bin\Debug\net5.0\UC6Assignment.exe
+C:\Users\VISHAL\source\repos\UC6Assignment\UC6Assignment\bin\Debug\net5.0\UC6Assignment.deps.json
+C:\Users\VISHAL\source\repos\UC6Assignment\UC6Assignment\bin\Debug\net5.0\UC6Assignment.runtimeconfig.json
+C:\Users\VISHAL\source\repos\UC6Assignment\UC6Assignment\bin\Debug\net5.0\UC6Assignment.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\UC6Assignment\UC6Assignment\bin\Debug\net5.0\UC6Assignment.dll
+C:\Users\VISHAL\source\repos\UC6Assignment\UC6Assignment\bin\Debug\net5.0\ref\UC6Assignment.dll
+C:\Users\VISHAL\source\repos\UC6Assignment\UC6Assignment\bin\Debug\net5.0\UC6Assignment.pdb
+C:\Users\VISHAL\source\repos\UC6Assignment\UC6Assignment\obj\Debug\net5.0\UC6Assignment.csproj.AssemblyReference.cache
+C:\Users\VISHAL\source\repos\UC6Assignment\UC6Assignment\obj\Debug\net5.0\UC6Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\UC6Assignment\UC6Assignment\obj\Debug\net5.0\UC6Assignment.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\UC6Assignment\UC6Assignment\obj\Debug\net5.0\UC6Assignment.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\UC6Assignment\UC6Assignment\obj\Debug\net5.0\UC6Assignment.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\UC6Assignment\UC6Assignment\obj\Debug\net5.0\UC6Assignment.dll
+C:\Users\VISHAL\source\repos\UC6Assignment\UC6Assignment\obj\Debug\net5.0\ref\UC6Assignment.dll
+C:\Users\VISHAL\source\repos\UC6Assignment\UC6Assignment\obj\Debug\net5.0\UC6Assignment.pdb
+C:\Users\VISHAL\source\repos\UC6Assignment\UC6Assignment\obj\Debug\net5.0\UC6Assignment.genruntimeconfig.cache
