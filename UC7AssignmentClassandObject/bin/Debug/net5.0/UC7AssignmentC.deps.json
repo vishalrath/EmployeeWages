@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UC7AssignmentC/1.0.0": {
+        "runtime": {
+          "UC7AssignmentC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UC7AssignmentC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

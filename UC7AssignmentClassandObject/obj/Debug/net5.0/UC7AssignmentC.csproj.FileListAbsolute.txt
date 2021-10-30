@@ -1,0 +1,15 @@
+C:\Users\VISHAL\source\repos\Practice Problem EmpWages\UC7AssignmentClassandObject\UC7AssignmentClassandObject\bin\Debug\net5.0\UC7AssignmentC.exe
+C:\Users\VISHAL\source\repos\Practice Problem EmpWages\UC7AssignmentClassandObject\UC7AssignmentClassandObject\bin\Debug\net5.0\UC7AssignmentC.deps.json
+C:\Users\VISHAL\source\repos\Practice Problem EmpWages\UC7AssignmentClassandObject\UC7AssignmentClassandObject\bin\Debug\net5.0\UC7AssignmentC.runtimeconfig.json
+C:\Users\VISHAL\source\repos\Practice Problem EmpWages\UC7AssignmentClassandObject\UC7AssignmentClassandObject\bin\Debug\net5.0\UC7AssignmentC.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\Practice Problem EmpWages\UC7AssignmentClassandObject\UC7AssignmentClassandObject\bin\Debug\net5.0\UC7AssignmentC.dll
+C:\Users\VISHAL\source\repos\Practice Problem EmpWages\UC7AssignmentClassandObject\UC7AssignmentClassandObject\bin\Debug\net5.0\ref\UC7AssignmentC.dll
+C:\Users\VISHAL\source\repos\Practice Problem EmpWages\UC7AssignmentClassandObject\UC7AssignmentClassandObject\bin\Debug\net5.0\UC7AssignmentC.pdb
+C:\Users\VISHAL\source\repos\Practice Problem EmpWages\UC7AssignmentClassandObject\UC7AssignmentClassandObject\obj\Debug\net5.0\UC7AssignmentC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\Practice Problem EmpWages\UC7AssignmentClassandObject\UC7AssignmentClassandObject\obj\Debug\net5.0\UC7AssignmentC.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\Practice Problem EmpWages\UC7AssignmentClassandObject\UC7AssignmentClassandObject\obj\Debug\net5.0\UC7AssignmentC.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\Practice Problem EmpWages\UC7AssignmentClassandObject\UC7AssignmentClassandObject\obj\Debug\net5.0\UC7AssignmentC.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\Practice Problem EmpWages\UC7AssignmentClassandObject\UC7AssignmentClassandObject\obj\Debug\net5.0\UC7AssignmentC.dll
+C:\Users\VISHAL\source\repos\Practice Problem EmpWages\UC7AssignmentClassandObject\UC7AssignmentClassandObject\obj\Debug\net5.0\ref\UC7AssignmentC.dll
+C:\Users\VISHAL\source\repos\Practice Problem EmpWages\UC7AssignmentClassandObject\UC7AssignmentClassandObject\obj\Debug\net5.0\UC7AssignmentC.pdb
+C:\Users\VISHAL\source\repos\Practice Problem EmpWages\UC7AssignmentClassandObject\UC7AssignmentClassandObject\obj\Debug\net5.0\UC7AssignmentC.genruntimeconfig.cache

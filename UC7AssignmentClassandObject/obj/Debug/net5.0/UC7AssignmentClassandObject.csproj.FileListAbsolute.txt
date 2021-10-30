@@ -1,0 +1,16 @@
+C:\Users\VISHAL\source\repos\UC7AssignmentClassandObject\UC7AssignmentClassandObject\bin\Debug\net5.0\UC7AssignmentClassandObject.exe
+C:\Users\VISHAL\source\repos\UC7AssignmentClassandObject\UC7AssignmentClassandObject\bin\Debug\net5.0\UC7AssignmentClassandObject.deps.json
+C:\Users\VISHAL\source\repos\UC7AssignmentClassandObject\UC7AssignmentClassandObject\bin\Debug\net5.0\UC7AssignmentClassandObject.runtimeconfig.json
+C:\Users\VISHAL\source\repos\UC7AssignmentClassandObject\UC7AssignmentClassandObject\bin\Debug\net5.0\UC7AssignmentClassandObject.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\UC7AssignmentClassandObject\UC7AssignmentClassandObject\bin\Debug\net5.0\UC7AssignmentClassandObject.dll
+C:\Users\VISHAL\source\repos\UC7AssignmentClassandObject\UC7AssignmentClassandObject\bin\Debug\net5.0\ref\UC7AssignmentClassandObject.dll
+C:\Users\VISHAL\source\repos\UC7AssignmentClassandObject\UC7AssignmentClassandObject\bin\Debug\net5.0\UC7AssignmentClassandObject.pdb
+C:\Users\VISHAL\source\repos\UC7AssignmentClassandObject\UC7AssignmentClassandObject\obj\Debug\net5.0\UC7AssignmentClassandObject.csproj.AssemblyReference.cache
+C:\Users\VISHAL\source\repos\UC7AssignmentClassandObject\UC7AssignmentClassandObject\obj\Debug\net5.0\UC7AssignmentClassandObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\UC7AssignmentClassandObject\UC7AssignmentClassandObject\obj\Debug\net5.0\UC7AssignmentClassandObject.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\UC7AssignmentClassandObject\UC7AssignmentClassandObject\obj\Debug\net5.0\UC7AssignmentClassandObject.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\UC7AssignmentClassandObject\UC7AssignmentClassandObject\obj\Debug\net5.0\UC7AssignmentClassandObject.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\UC7AssignmentClassandObject\UC7AssignmentClassandObject\obj\Debug\net5.0\UC7AssignmentClassandObject.dll
+C:\Users\VISHAL\source\repos\UC7AssignmentClassandObject\UC7AssignmentClassandObject\obj\Debug\net5.0\ref\UC7AssignmentClassandObject.dll
+C:\Users\VISHAL\source\repos\UC7AssignmentClassandObject\UC7AssignmentClassandObject\obj\Debug\net5.0\UC7AssignmentClassandObject.pdb
+C:\Users\VISHAL\source\repos\UC7AssignmentClassandObject\UC7AssignmentClassandObject\obj\Debug\net5.0\UC7AssignmentClassandObject.genruntimeconfig.cache
