@@ -1,0 +1,15 @@
+C:\Users\VISHAL\source\repos\EmpWagesFinalSolution\EmpWagesFinalSolution\obj\Debug\net5.0\EmpWagesFinalSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\EmpWagesFinalSolution\EmpWagesFinalSolution\obj\Debug\net5.0\EmpWagesFinalSolution.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\EmpWagesFinalSolution\EmpWagesFinalSolution\obj\Debug\net5.0\EmpWagesFinalSolution.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\EmpWagesFinalSolution\EmpWagesFinalSolution\obj\Debug\net5.0\EmpWagesFinalSolution.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\EmpWagesFinalSolution\EmpWagesFinalSolution\bin\Debug\net5.0\EmpWagesFinalSolution.exe
+C:\Users\VISHAL\source\repos\EmpWagesFinalSolution\EmpWagesFinalSolution\bin\Debug\net5.0\EmpWagesFinalSolution.deps.json
+C:\Users\VISHAL\source\repos\EmpWagesFinalSolution\EmpWagesFinalSolution\bin\Debug\net5.0\EmpWagesFinalSolution.runtimeconfig.json
+C:\Users\VISHAL\source\repos\EmpWagesFinalSolution\EmpWagesFinalSolution\bin\Debug\net5.0\EmpWagesFinalSolution.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\EmpWagesFinalSolution\EmpWagesFinalSolution\bin\Debug\net5.0\EmpWagesFinalSolution.dll
+C:\Users\VISHAL\source\repos\EmpWagesFinalSolution\EmpWagesFinalSolution\bin\Debug\net5.0\ref\EmpWagesFinalSolution.dll
+C:\Users\VISHAL\source\repos\EmpWagesFinalSolution\EmpWagesFinalSolution\bin\Debug\net5.0\EmpWagesFinalSolution.pdb
+C:\Users\VISHAL\source\repos\EmpWagesFinalSolution\EmpWagesFinalSolution\obj\Debug\net5.0\EmpWagesFinalSolution.dll
+C:\Users\VISHAL\source\repos\EmpWagesFinalSolution\EmpWagesFinalSolution\obj\Debug\net5.0\ref\EmpWagesFinalSolution.dll
+C:\Users\VISHAL\source\repos\EmpWagesFinalSolution\EmpWagesFinalSolution\obj\Debug\net5.0\EmpWagesFinalSolution.pdb
+C:\Users\VISHAL\source\repos\EmpWagesFinalSolution\EmpWagesFinalSolution\obj\Debug\net5.0\EmpWagesFinalSolution.genruntimeconfig.cache
