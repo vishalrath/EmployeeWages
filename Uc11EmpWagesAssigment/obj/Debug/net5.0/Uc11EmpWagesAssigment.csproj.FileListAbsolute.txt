@@ -1,0 +1,16 @@
+C:\Users\VISHAL\source\repos\Uc11EmpWagesAssigment\Uc11EmpWagesAssigment\bin\Debug\net5.0\Uc11EmpWagesAssigment.exe
+C:\Users\VISHAL\source\repos\Uc11EmpWagesAssigment\Uc11EmpWagesAssigment\bin\Debug\net5.0\Uc11EmpWagesAssigment.deps.json
+C:\Users\VISHAL\source\repos\Uc11EmpWagesAssigment\Uc11EmpWagesAssigment\bin\Debug\net5.0\Uc11EmpWagesAssigment.runtimeconfig.json
+C:\Users\VISHAL\source\repos\Uc11EmpWagesAssigment\Uc11EmpWagesAssigment\bin\Debug\net5.0\Uc11EmpWagesAssigment.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\Uc11EmpWagesAssigment\Uc11EmpWagesAssigment\bin\Debug\net5.0\Uc11EmpWagesAssigment.dll
+C:\Users\VISHAL\source\repos\Uc11EmpWagesAssigment\Uc11EmpWagesAssigment\bin\Debug\net5.0\ref\Uc11EmpWagesAssigment.dll
+C:\Users\VISHAL\source\repos\Uc11EmpWagesAssigment\Uc11EmpWagesAssigment\bin\Debug\net5.0\Uc11EmpWagesAssigment.pdb
+C:\Users\VISHAL\source\repos\Uc11EmpWagesAssigment\Uc11EmpWagesAssigment\obj\Debug\net5.0\Uc11EmpWagesAssigment.csproj.AssemblyReference.cache
+C:\Users\VISHAL\source\repos\Uc11EmpWagesAssigment\Uc11EmpWagesAssigment\obj\Debug\net5.0\Uc11EmpWagesAssigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\Uc11EmpWagesAssigment\Uc11EmpWagesAssigment\obj\Debug\net5.0\Uc11EmpWagesAssigment.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\Uc11EmpWagesAssigment\Uc11EmpWagesAssigment\obj\Debug\net5.0\Uc11EmpWagesAssigment.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\Uc11EmpWagesAssigment\Uc11EmpWagesAssigment\obj\Debug\net5.0\Uc11EmpWagesAssigment.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\Uc11EmpWagesAssigment\Uc11EmpWagesAssigment\obj\Debug\net5.0\Uc11EmpWagesAssigment.dll
+C:\Users\VISHAL\source\repos\Uc11EmpWagesAssigment\Uc11EmpWagesAssigment\obj\Debug\net5.0\ref\Uc11EmpWagesAssigment.dll
+C:\Users\VISHAL\source\repos\Uc11EmpWagesAssigment\Uc11EmpWagesAssigment\obj\Debug\net5.0\Uc11EmpWagesAssigment.pdb
+C:\Users\VISHAL\source\repos\Uc11EmpWagesAssigment\Uc11EmpWagesAssigment\obj\Debug\net5.0\Uc11EmpWagesAssigment.genruntimeconfig.cache
