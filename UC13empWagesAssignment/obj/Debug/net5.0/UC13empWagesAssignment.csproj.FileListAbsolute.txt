@@ -1,0 +1,15 @@
+C:\Users\VISHAL\source\repos\UC13empWagesAssignment\UC13empWagesAssignment\bin\Debug\net5.0\UC13empWagesAssignment.exe
+C:\Users\VISHAL\source\repos\UC13empWagesAssignment\UC13empWagesAssignment\bin\Debug\net5.0\UC13empWagesAssignment.deps.json
+C:\Users\VISHAL\source\repos\UC13empWagesAssignment\UC13empWagesAssignment\bin\Debug\net5.0\UC13empWagesAssignment.runtimeconfig.json
+C:\Users\VISHAL\source\repos\UC13empWagesAssignment\UC13empWagesAssignment\bin\Debug\net5.0\UC13empWagesAssignment.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\UC13empWagesAssignment\UC13empWagesAssignment\bin\Debug\net5.0\UC13empWagesAssignment.dll
+C:\Users\VISHAL\source\repos\UC13empWagesAssignment\UC13empWagesAssignment\bin\Debug\net5.0\ref\UC13empWagesAssignment.dll
+C:\Users\VISHAL\source\repos\UC13empWagesAssignment\UC13empWagesAssignment\bin\Debug\net5.0\UC13empWagesAssignment.pdb
+C:\Users\VISHAL\source\repos\UC13empWagesAssignment\UC13empWagesAssignment\obj\Debug\net5.0\UC13empWagesAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\UC13empWagesAssignment\UC13empWagesAssignment\obj\Debug\net5.0\UC13empWagesAssignment.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\UC13empWagesAssignment\UC13empWagesAssignment\obj\Debug\net5.0\UC13empWagesAssignment.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\UC13empWagesAssignment\UC13empWagesAssignment\obj\Debug\net5.0\UC13empWagesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\UC13empWagesAssignment\UC13empWagesAssignment\obj\Debug\net5.0\UC13empWagesAssignment.dll
+C:\Users\VISHAL\source\repos\UC13empWagesAssignment\UC13empWagesAssignment\obj\Debug\net5.0\ref\UC13empWagesAssignment.dll
+C:\Users\VISHAL\source\repos\UC13empWagesAssignment\UC13empWagesAssignment\obj\Debug\net5.0\UC13empWagesAssignment.pdb
+C:\Users\VISHAL\source\repos\UC13empWagesAssignment\UC13empWagesAssignment\obj\Debug\net5.0\UC13empWagesAssignment.genruntimeconfig.cache
