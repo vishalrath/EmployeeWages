@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VISHAL\\source\\repos\\UC1Assignment\\UC1Assignment\\UC1Assignment.csproj": {}
+    "C:\\Users\\VISHAL\\source\\repos\\Practice Problem EmpWages\\UC1Assigment\\UC1Assignment\\UC1Assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VISHAL\\source\\repos\\UC1Assignment\\UC1Assignment\\UC1Assignment.csproj": {
+    "C:\\Users\\VISHAL\\source\\repos\\Practice Problem EmpWages\\UC1Assigment\\UC1Assignment\\UC1Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VISHAL\\source\\repos\\UC1Assignment\\UC1Assignment\\UC1Assignment.csproj",
+        "projectUniqueName": "C:\\Users\\VISHAL\\source\\repos\\Practice Problem EmpWages\\UC1Assigment\\UC1Assignment\\UC1Assignment.csproj",
         "projectName": "UC1Assignment",
-        "projectPath": "C:\\Users\\VISHAL\\source\\repos\\UC1Assignment\\UC1Assignment\\UC1Assignment.csproj",
+        "projectPath": "C:\\Users\\VISHAL\\source\\repos\\Practice Problem EmpWages\\UC1Assigment\\UC1Assignment\\UC1Assignment.csproj",
         "packagesPath": "C:\\Users\\VISHAL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VISHAL\\source\\repos\\UC1Assignment\\UC1Assignment\\obj\\",
+        "outputPath": "C:\\Users\\VISHAL\\source\\repos\\Practice Problem EmpWages\\UC1Assigment\\UC1Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VISHAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
